@@ -1,4 +1,3 @@
-[github_profile_readme.md](https://github.com/user-attachments/files/35315475/github_profile_readme.md)
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hola,+soy+Reymi+I.+Mieses+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+%26+Full-Stack+%7C+C%23,+Python,+Node.js;Siempre+aprendiendo,+siempre+construyendo+%F0%9F%9A%80&center=true&width=620&height=45&color=2496ED&vCenter=true&size=21" alt="Typing SVG" />
