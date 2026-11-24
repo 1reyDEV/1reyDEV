@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.vercel.app/?lines=Hola,+soy+1reyDEV+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+%26+Full-Stack+%7C+C%23,+Python,+Node.js;Siempre+aprendiendo,+siempre+construyendo+%F0%9F%9A%80&center=true&width=620&height=45&color=2496ED&vCenter=true&size=21" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Hola%2C%20soy%201reyDEV%20%F0%9F%91%8B-Backend%20%26%20Full--Stack%20Developer-2496ED?style=for-the-badge" alt="Hola, soy 1reyDEV" />
 
 <br/>
 
