@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hola,+soy+1reyDEV+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+%26+Full-Stack+%7C+C%23,+Python,+Node.js;Siempre+aprendiendo,+siempre+construyendo+%F0%9F%9A%80&center=true&width=620&height=45&color=2496ED&vCenter=true&size=21" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app/?lines=Hola,+soy+1reyDEV+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+%26+Full-Stack+%7C+C%23,+Python,+Node.js;Siempre+aprendiendo,+siempre+construyendo+%F0%9F%9A%80&center=true&width=620&height=45&color=2496ED&vCenter=true&size=21" alt="Typing SVG" />
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hola%20soy 1reyDEV+%F0%9F%91%8B;&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=18)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1d4ed8,100:0ea5e9&section=header&text=Hola%20soy%201reyDEV%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
 </div>
 
