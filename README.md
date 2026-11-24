@@ -4,7 +4,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1d4ed8,100:0ea5e9&section=header&text=Hola,%20soy%201reyDEV%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Header" />
+![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=1reyDEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Backend%20Developer&descAlignY=58&descSize=18)
+
 
 </div>
 
