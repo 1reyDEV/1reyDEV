@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/1REYDEV-REYMI%20I.%20MIESES-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8" alt="1reyDEV" />
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-UTECO-1D4ED8?style=for-the-badge" alt="Ingeniería de Software" />
-<img src="https://img.shields.io/badge/BACKEND%20%26%20FULL--STACK-C%23%20%7C%20PYTHON%20%7C%20NODE-0284C7?style=for-the-badge" alt="Stack Principal" />
+# `@1reyDEV` — Developer Card & System Profile
+
+![1reyDEV](https://img.shields.io/badge/HANDLE-1reyDEV-090d16?style=for-the-badge&logo=github&logoColor=10b981)
+![Role](https://img.shields.io/badge/ROLE-Software%20Engineering%20%7C%20Backend-090d16?style=for-the-badge&logo=codeigniter&logoColor=38bdf8)
+![Location](https://img.shields.io/badge/BASE-Cotu%C3%AD%2C%20RD-090d16?style=for-the-badge&logo=linuxmint&logoColor=a855f7)
 
 <br/>
 
-### *Construyendo sistemas claros, APIs rápidas y herramientas que resuelven problemas reales.*
-📍 **Cotuí, República Dominicana** · 💻 **Linux Mint & Windows**
-
-[![GitHub](https://img.shields.io/badge/GitHub-1reyDEV-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/1reyDEV)
-[![Email](https://img.shields.io/badge/Email-Contacto-DC2626?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@ejemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1reyDEV-111827?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/1reyDEV)
+[![Email](https://img.shields.io/badge/Email-Contacto-111827?style=flat-square&logo=gmail&logoColor=f87171)](mailto:tu_correo@ejemplo.com)
 
 </div>
 
 ---
 
-### 🧩 Cómo se conecta mi stack
+## 🃏 Collector Card · `1reyDEV`
+
+> **COLLECTOR EDITION · 2026** — *Reymi Ismael Mieses Ventura · Estudiante de Ingeniería de Software (UTECO)*  
+> Enfocado en construir APIs, lógica de negocio, bases de datos relacionales y herramientas prácticas tanto en **Linux Mint** como en **Windows**.
 
 ```mermaid
 flowchart LR
-    classDef ui fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
-    classDef api fill:#172554,stroke:#60a5fa,stroke-width:2px,color:#eff6ff
-    classDef db fill:#064e3b,stroke:#34d399,stroke-width:2px,color:#ecfdf5
-    classDef extra fill:#311042,stroke:#c084fc,stroke-width:2px,color:#faf5ff
+    classDef cardA fill:#090d16,stroke:#10b981,stroke-width:2px,color:#ecfdf5
+    classDef cardB fill:#090d16,stroke:#38bdf8,stroke-width:2px,color:#f0f9ff
+    classDef cardC fill:#090d16,stroke:#a855f7,stroke-width:2px,color:#faf5ff
 
-    UI["🌐 Web & Móvil<br/>HTML5 · CSS3 · JS"]:::ui --> API["⚡ APIs & Lógica<br/>C# · FastAPI · Express"]:::api
-    API --> DB[("🗄️ Datos Relacionales<br/>PostgreSQL · SQL Server · MySQL")]:::db
-    MOD["🎮 Scripts & Entornos<br/>Lua · CEF · MTA:SA"]:::extra -.-> UI
+    IDENTITY["🪪 CARD 00 · IDENTITY<br/>1reyDEV · Software Eng.<br/>C# · Python · Node.js"]:::cardA --> FLOW["⚡ ENGINE · DATA & APIs<br/>FastAPI · Express · .NET<br/>PostgreSQL · SQL Server"]:::cardB
+    FLOW --> BUILDS["🧩 DECK · ACTIVE BUILDS<br/>Reportes · Rifas · Asistencia<br/>Lua / CEF · Seguridad"]:::cardC
