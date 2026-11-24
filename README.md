@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://readme-typing-svg.vercel.app/?lines=Hola,+soy+1reyDEV+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Software;Backend+%26+Full-Stack+%7C+C%23,+Python,+Node.js;Siempre+aprendiendo,+siempre+construyendo+%F0%9F%9A%80&center=true&width=620&height=45&color=2496ED&vCenter=true&size=21" alt="Typing SVG" />
 
@@ -129,3 +129,4 @@ _Gracias por visitar mi perfil. ¡Vamos a construir algo increíble juntos! 🚀
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer)
 
 </div>
+**
