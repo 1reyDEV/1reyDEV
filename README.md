@@ -1,73 +1,30 @@
 <div align="center">
 
-# `~/1reyDEV` — Software Engineering & Backend Profile
+<img src="https://img.shields.io/badge/1REYDEV-REYMI%20I.%20MIESES-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8" alt="1reyDEV" />
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-UTECO-1D4ED8?style=for-the-badge" alt="Ingeniería de Software" />
+<img src="https://img.shields.io/badge/BACKEND%20%26%20FULL--STACK-C%23%20%7C%20PYTHON%20%7C%20NODE-0284C7?style=for-the-badge" alt="Stack Principal" />
 
-`C# (.NET)` · `Python (FastAPI)` · `Node.js (Express)` · `PostgreSQL` · `SQL Server` · `Lua`
+<br/>
 
-[![GitHub](https://img.shields.io/badge/repo-1reyDEV-111827?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/1reyDEV)
-[![Email](https://img.shields.io/badge/mail-contacto-111827?style=flat-square&logo=gmail&logoColor=f87171)](mailto:tu_correo@ejemplo.com)
-![Status](https://img.shields.io/badge/status-building%20%26%20learning-065f46?style=flat-square)
+### *Construyendo sistemas claros, APIs rápidas y herramientas que resuelven problemas reales.*
+📍 **Cotuí, República Dominicana** · 💻 **Linux Mint & Windows**
+
+[![GitHub](https://img.shields.io/badge/GitHub-1reyDEV-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/1reyDEV)
+[![Email](https://img.shields.io/badge/Email-Contacto-DC2626?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@ejemplo.com)
 
 </div>
 
 ---
 
-### `$ cat /etc/1reydev/identity.yml`
-
-```yaml
-developer:
-  handle: "1reyDEV"
-  name: "Reymi Ismael Mieses Ventura"
-  program: "Ingeniería de Software (UTECO)"
-  location: "Cotuí, República Dominicana"
-  environments: ["Linux Mint", "Windows"]
-
-core_stack:
-  backend_and_apis: ["C#", ".NET", "Python", "FastAPI", "Node.js", "Express"]
-  databases: ["PostgreSQL", "SQL Server", "MySQL"]
-  web_and_scripting: ["HTML5", "CSS3", "JavaScript", "Lua (MTA:SA)"]
-
-focus_areas:
-  - "APIs, lógica de negocio y consultas relacionales eficientes"
-  - "Modelado UML, arquitectura de sistemas y seguridad informática"
-  - "Herramientas prácticas que resuelven problemas reales"
-```
-
----
-
-### `$ ./architecture-overview.sh`
+### 🧩 Cómo se conecta mi stack
 
 ```mermaid
 flowchart LR
-    Client["Cliente Web / Móvil / UI"] --> API["Capa de Aplicación & APIs<br/>C# · FastAPI · Express"]
-    API --> Logic["Reglas de Negocio & Validación<br/>Reportes · Asistencia · Rifas"]
-    Logic --> DB[("Bases de Datos Relacionales<br/>PostgreSQL · SQL Server · MySQL")]
-    Scripts["Lua / CEF / Maps<br/>MTA:SA"] -.->|"Entornos interactivos"| Client
-```
+    classDef ui fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
+    classDef api fill:#172554,stroke:#60a5fa,stroke-width:2px,color:#eff6ff
+    classDef db fill:#064e3b,stroke:#34d399,stroke-width:2px,color:#ecfdf5
+    classDef extra fill:#311042,stroke:#c084fc,stroke-width:2px,color:#faf5ff
 
----
-
-### `$ ls -la ./projects`
-
-| Proyecto | Qué hace | Stack principal |
-| :--- | :--- | :--- |
-| **`generar_reporte_analitico`** | Consolida y agrega registros de ventas para devolver reportes JSON estructurados. | `Python` `FastAPI` `PostgreSQL` |
-| **Plataforma de Rifas Digitales** | Selección interactiva de boletos, barra de progreso, carga de comprobantes y validación. | `Node.js` `Express` `PostgreSQL` `JS` |
-| **App Web de Control de Asistencia** | Importación masiva de listas, filtros en vivo, porcentajes e historial de faltas/tardanzas. | `HTML5` `CSS3` `JavaScript` |
-| **`TiendaPrueba` (DB Schema)** | Tablas `Clientes`, `Productos` y `Ventas` con relaciones y vistas basadas en `JOIN`. | `SQL Server` `SQL` |
-
----
-
-### `$ git status`
-
-- `[ACTIVE]` Mejorando el sistema de **pase de lista estudiantil** (importación masiva, métricas e historial diario).
-- `[ACTIVE]` Profundizando en **seguridad informática / pentesting**, análisis de riesgos y planes de contingencia.
-- `[ACTIVE]` Practicando **POO en C#**, diseño de bases de datos y flujo de trabajo con Git.
-
----
-
-<div align="center">
-
-`exit 0` · **1reyDEV** — *Código claro, pruebas reales y mejora continua.*
-
-</div>
+    UI["🌐 Web & Móvil<br/>HTML5 · CSS3 · JS"]:::ui --> API["⚡ APIs & Lógica<br/>C# · FastAPI · Express"]:::api
+    API --> DB[("🗄️ Datos Relacionales<br/>PostgreSQL · SQL Server · MySQL")]:::db
+    MOD["🎮 Scripts & Entornos<br/>Lua · CEF · MTA:SA"]:::extra -.-> UI
