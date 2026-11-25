@@ -11,14 +11,13 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 ABOUT ME 
 
 ```yaml
 nombre: "1reyDEV"
 rol: "Estudiante de Ingeniería de Software (UTECO)"
 enfoque: ["C#", "Python (FastAPI)", "Node.js / Express", "SQL Server", "PostgreSQL"]
 explorando: ["Arquitectura de Software", "Seguridad Informática / Pentesting", "Sistemas Distribuidos"]
-ubicacion: "Cotuí, República Dominicana 🇩🇴"
 ```
 
 - 🎓 Estudiante de **Ingeniería de Software**, enfocado en el desarrollo de aplicaciones web, APIs y sistemas escalables.
